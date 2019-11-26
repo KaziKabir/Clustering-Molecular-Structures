@@ -1,7 +1,6 @@
 Sequence of Execution of the source code files:
 
-  1. Execute extract_CA.py (this step can be skipped if we don't have the pdb file. In that case, we start from 2 with the
-     onedtja_CA_5000.txt file having the CA coordinates of the structures)
+  1. Execute extract_CA.py (the zip file contains the pdb)
 
   2. Execute featurizer.py
 
