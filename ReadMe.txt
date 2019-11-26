@@ -17,5 +17,5 @@ Sequence of Execution of the source code files:
 
   7. Execute purity_largest_cluster.py (this file reads cluster output file clusters_kmeans_1dtja_5000.txt)
 
-  Note: Before repeating the whole sequence, delete all the text files except ReadMe.txt (and except onedtja_CA_5000.txt if there is no   
-        pdb file)
+  Note: Before repeating the whole sequence, delete all the text files except ReadMe.txt (and also except onedtja_CA_5000.txt if there is 
+        no pdb file)
