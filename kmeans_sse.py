@@ -9,7 +9,7 @@ import matplotlib
 vectors = np.loadtxt("pc1-5_1dtja_5000.txt")
 
 
-cluster_range = range(2, 401, 10)
+cluster_range = range(2, 401)
 cluster_errors = []
 for num_clusters in cluster_range:
     clusters = KMeans(num_clusters,init='k-means++').fit(vectors)
